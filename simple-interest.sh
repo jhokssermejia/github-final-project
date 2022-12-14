@@ -6,7 +6,7 @@
 
 #Autor: Upkar Lidder ( IMB )
 #Additional Authors:
-# Jhoksser Mejia
+# <jhokssermejia>
 
 #Input:
 #p, principal amount
